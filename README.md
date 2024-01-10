@@ -1,6 +1,9 @@
 username: admin2
 passwd: admin
 
+username2:admintest2
+passwd2:admintest
+
 
 obejście pajczarm:
 W pyCharm
